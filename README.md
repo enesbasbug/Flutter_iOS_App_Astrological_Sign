@@ -2,7 +2,6 @@
 
 
 <!-- ![img](/images/1.png) -->
-<img src='images/1.png' width='250'>
-##
+<img src="images/1.png" width="400"/> <img src="images/2.png" width="400"/> 
 <!-- ![img](/images/2.png) -->
-<img src='images/2.png' width='250'>
+
